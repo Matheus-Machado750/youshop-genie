@@ -80,5 +80,5 @@ As métricas/estimativas apresentadas no projeto (ex.: aumento de CTR) são heur
 
 ## 👨‍💻 Autor
 
-Feito com 💚💙 por Matheus Machado dos Santos
+Feito com 💚💙 por Matheus Machado dos Santos.
 Projeto para o Desafio de Inovação – Programa de Estágio YouShop 2025
