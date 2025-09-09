@@ -40,7 +40,7 @@ Abra no navegador: http://localhost:8501
 
 ---
 
-🎯 Funcionalidades
+## 🎯 Funcionalidades
 
 ✍️ Geração de posts para redes sociais (variações rápidas)
 
@@ -52,7 +52,7 @@ Abra no navegador: http://localhost:8501
 
 ---
 
-📌 Exemplo de uso (rápido)
+## 📌 Exemplo de uso (rápido)
 
 Abra o app (streamlit run main.py).
 
@@ -66,19 +66,19 @@ Copie o texto gerado e use nos seus materiais — revise antes de publicar.
 
 ---
 
-🌐 Deploy / Compartilhamento
+## 🌐 Deploy / Compartilhamento
 
 O protótipo foi projetado para rodar localmente via Streamlit.
 
 ---
 
-📝 Nota sobre as estimativas
+## 📝 Nota sobre as estimativas
 
 As métricas/estimativas apresentadas no projeto (ex.: aumento de CTR) são heurísticas para demonstrar impacto. Para validação real, recomenda-se execução de testes A/B em campanhas controladas.
 
 ---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Feito com 💚💙 por Matheus Machado dos Santos
 Projeto para o Desafio de Inovação – Programa de Estágio YouShop 2025
