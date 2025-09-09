@@ -38,6 +38,7 @@ streamlit run main.py
 
 Abra no navegador: http://localhost:8501
 
+---
 
 🎯 Funcionalidades
 
@@ -49,7 +50,7 @@ Abra no navegador: http://localhost:8501
 
 ⭐ Sugestão de melhor versão via heurística simples
 
-
+---
 
 📌 Exemplo de uso (rápido)
 
@@ -63,19 +64,19 @@ Clique em ✨ Gerar conteúdo.
 
 Copie o texto gerado e use nos seus materiais — revise antes de publicar.
 
-
+---
 
 🌐 Deploy / Compartilhamento
 
 O protótipo foi projetado para rodar localmente via Streamlit.
 
-
+---
 
 📝 Nota sobre as estimativas
 
 As métricas/estimativas apresentadas no projeto (ex.: aumento de CTR) são heurísticas para demonstrar impacto. Para validação real, recomenda-se execução de testes A/B em campanhas controladas.
 
-
+---
 
 👨‍💻 Autor
 
