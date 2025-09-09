@@ -37,7 +37,7 @@ Rode o protótipo localmente:
 streamlit run main.py
 
 Abra no navegador: http://localhost:8501
-
+```
 ---
 
 ## 🎯 Funcionalidades
